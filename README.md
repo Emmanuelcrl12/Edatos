@@ -1,4 +1,4 @@
 # Edatos
 
 
-mi primer proyecto usando git,njwduVAXNB
+mi primer proyecto usando git
